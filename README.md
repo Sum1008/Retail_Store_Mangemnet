@@ -3,3 +3,4 @@ The Retail Shop Data Warehouse Project aims to create a comprehensive date wareh
 >Performed ETL(Extract,Transfrom,Load) and successfully populated data from source tables into dimension tables and further into the fact table, ensuring data integrity and coherence across the system.
 >Implemented a robust reporting system for monitoring key performance indicators.
 This project showcases proficiency in database design, SQL, and PL/SQL, emphasizing your ability to architect and implement effective solutions for business needs.
+![Screenshot 2024-04-29 154838](https://github.com/Sum1008/Retail_Store_Mangemnet/assets/60834583/b5b9a750-7084-473f-a3db-87c1f4a3de1f)
